@@ -80,22 +80,13 @@ Edit
 git clone https://github.com/your-username/your-chat-app.git
 
 📁 2. Navigate to the Project Folder
-bash
-Copy
-Edit
 cd your-chat-app
 
 📦 3. Install Dependencies
 Make sure you have Node.js installed. Then run:
-
-bash
-Copy
-Edit
 npm install
+
 🚀 4. Start the App
-bash
-Copy
-Edit
 npm start
 This will run the app on http://localhost:3000.
 
@@ -116,9 +107,7 @@ This will run the app on http://localhost:3000.
 🙋‍♀️ Author
 
 Ragani Kumari
-
 Intern at CodTech
-
 GitHub: RaganiKumari9798
 
 
