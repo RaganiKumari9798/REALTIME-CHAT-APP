@@ -12,6 +12,8 @@ DURATION :- 6 WEEKS
 
 MENTOR :- NEELA SANTOSH KUMAR
 
+---
+
 💬 Real-Time Chat App – Description
 
 The Real-Time Chat App is a modern web-based communication platform that enables users to send and receive messages instantly ⚡. Designed with simplicity and speed in mind, it mimics real-world chat experiences using WebSocket technology (Socket.io) to ensure smooth, two-way communication between users.
@@ -81,9 +83,13 @@ This will run the app on http://localhost:3000.
 /server *(optional backend)*
   ├── index.js
 
+---
+
 💡OUTPUT
 
 <img width="1916" height="1076" alt="Image" src="https://github.com/user-attachments/assets/71e7ff62-4d48-4e65-aed7-58d3d1cd8bfb" />
+
+---
 
 🙋‍♀️ Author<br>
 Ragani Kumari<br>
