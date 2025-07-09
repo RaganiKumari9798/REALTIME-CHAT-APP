@@ -17,35 +17,26 @@ MENTOR :- NEELA SANTOSH KUMAR
 The Real-Time Chat App is a modern web-based communication platform that enables users to send and receive messages instantly ⚡. Designed with simplicity and speed in mind, it mimics real-world chat experiences using WebSocket technology (Socket.io) to ensure smooth, two-way communication between users.
 
 🔧 Technologies & Tools Used:
+
 ⚛️ React.js – Frontend framework
-
 🌐 Socket.io – For real-time, bi-directional communication
-
 🎨 HTML5 + CSS3 – For layout and styling
-
 💡 JavaScript – Core logic and interactivity
-
 🧑‍💻 VS Code – Code editor
-
 🐙 Git & GitHub – For version control and sharing
-
 🌐 Node.js + Express (optional if backend is used)
 
 ✨ Key Features (From Screenshot):
-🔁 Real-Time Chatting
 
+🔁 Real-Time Chatting
 Messages are updated instantly using WebSocket (Socket.io) without refreshing the page.
 
 🌓 Light & Dark Mode
-
 Toggle button to switch between Light ☀️ and Dark 🌙 mode.
-
 Enhances UI experience and accessibility.
 
 💬 Two-Way Messaging UI
-
 Left side: Other user's messages (ram, sita)
-
 Right side: Your messages (You)
 
 🎨 Clean & Colorful Chat Bubbles
@@ -74,9 +65,6 @@ Users can type messages and click “Send” to dispatch it instantly.
 🧪 How to Run the App Locally:
 
 🖥️ 1. Clone the Repository
-bash
-Copy
-Edit
 git clone https://github.com/your-username/your-chat-app.git
 
 📁 2. Navigate to the Project Folder
