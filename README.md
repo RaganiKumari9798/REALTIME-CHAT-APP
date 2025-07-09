@@ -72,16 +72,19 @@ Users can type messages and click “Send” to dispatch it instantly.
 🕹️ Live chat in multiplayer games or support apps.
 
 🧪 How to Run the App Locally:
+
 🖥️ 1. Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/your-username/your-chat-app.git
+
 📁 2. Navigate to the Project Folder
 bash
 Copy
 Edit
 cd your-chat-app
+
 📦 3. Install Dependencies
 Make sure you have Node.js installed. Then run:
 
