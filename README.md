@@ -18,73 +18,60 @@ The Real-Time Chat App is a modern web-based communication platform that enables
 
 🔧 Technologies & Tools Used:
 
-⚛️ React.js – Frontend framework
-
-🌐 Socket.io – For real-time, bi-directional communication
-
-🎨 HTML5 + CSS3 – For layout and styling
-
-💡 JavaScript – Core logic and interactivity
-
-🧑‍💻 VS Code – Code editor
-
-🐙 Git & GitHub – For version control and sharing
-
-🌐 Node.js + Express (optional if backend is used)
+⚛️ React.js – Frontend framework<br>
+🌐 Socket.io – For real-time, bi-directional communication<br>
+🎨 HTML5 + CSS3 – For layout and styling<br>
+💡 JavaScript – Core logic and interactivity<br>
+🧑‍💻 VS Code – Code editor<br>
+🐙 Git & GitHub – For version control and sharing<br>
+🌐 Node.js + Express (optional if backend is used)<br>
 
 ✨ Key Features (From Screenshot):
 
-🔁 Real-Time Chatting
+🔁 Real-Time Chatting<br>
 Messages are updated instantly using WebSocket (Socket.io) without refreshing the page.
 
-🌓 Light & Dark Mode
+🌓 Light & Dark Mode<br>
 Toggle button to switch between Light ☀️ and Dark 🌙 mode.
 Enhances UI experience and accessibility.
 
-💬 Two-Way Messaging UI
+💬 Two-Way Messaging UI<br>
 Left side: Other user's messages (ram, sita)
 Right side: Your messages (You)
 
-🎨 Clean & Colorful Chat Bubbles
-
+🎨 Clean & Colorful Chat Bubbles<br>
 Light Mode: Purple chat box with dark text
-
 Dark Mode: Deep navy blue background with vibrant bubble colors
 
-😄 Emoji Support
-
+😄 Emoji Support<br>
 Emoji can be typed or pasted in the message box for expressive conversations.
 
-📥 Input Field + Send Button
-
+📥 Input Field + Send Button<br>
 Users can type messages and click “Send” to dispatch it instantly.
 
 📌 Use Cases:<br>
-💬 Personal or team chat platform.
-
-🎓 Real-time learning or classroom chat.
-
-🧑‍💻 Practice project for learning WebSocket & React.
-
-🕹️ Live chat in multiplayer games or support apps.
+💬 Personal or team chat platform.<br>
+🎓 Real-time learning or classroom chat.<br>
+🧑‍💻 Practice project for learning WebSocket & React.<br>
+🕹️ Live chat in multiplayer games or support apps.<br>
 
 🧪 How to Run the App Locally:
 
-🖥️ 1. Clone the Repository
+🖥️ 1. Clone the Repository<br>
 git clone https://github.com/your-username/your-chat-app.git
 
-📁 2. Navigate to the Project Folder
+📁 2. Navigate to the Project Folder<br>
 cd your-chat-app
 
-📦 3. Install Dependencies
+📦 3. Install Dependencies<br>
 Make sure you have Node.js installed. Then run:
 npm install
 
-🚀 4. Start the App
+🚀 4. Start the App<br>
 npm start
 This will run the app on http://localhost:3000.
 
-📁 Folder Structure (Common)
+📁 Folder Structure (Common)<br>
 /client
   ├── public/
   ├── src/
