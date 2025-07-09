@@ -36,15 +36,15 @@ The Real-Time Chat App is a modern web-based communication platform that enables
 Messages are updated instantly using WebSocket (Socket.io) without refreshing the page.
 
 - 🌓 Light & Dark Mode<br>
-Toggle button to switch between Light ☀️ and Dark 🌙 mode.
-Enhances UI experience and accessibility.
+Toggle button to switch between Light ☀️ and Dark 🌙 mode.<br>
+Enhances UI experience and accessibility.<br>
 
 - 💬 Two-Way Messaging UI<br>
-Left side: Other user's messages (ram, sita)
-Right side: Your messages (You)
+Left side: Other user's messages (ram, sita)<br>
+Right side: Your messages (You)<br>
 
 - 🎨 Clean & Colorful Chat Bubbles<br>
-Light Mode: Purple chat box with dark text
+Light Mode: Purple chat box with dark text<br>
 Dark Mode: Deep navy blue background with vibrant bubble colors
 
 - 😄 Emoji Support<br>
@@ -93,12 +93,14 @@ This will run the app on http://localhost:3000.
 
 ---
 
-🙋‍♀️ Author<br>
+## 🙋‍♀️ Author<br>
 Ragani Kumari<br>
 Intern at CodTech<br>
-GitHub: RaganiKumari9798
+GitHub: @RaganiKumari9798
 
-
+## 📄 License
+This project is licensed under the MIT License.<br>
+It is open source and free to use for learning and development purposes.
 
 
 
