@@ -19,11 +19,17 @@ The Real-Time Chat App is a modern web-based communication platform that enables
 🔧 Technologies & Tools Used:
 
 ⚛️ React.js – Frontend framework
+
 🌐 Socket.io – For real-time, bi-directional communication
+
 🎨 HTML5 + CSS3 – For layout and styling
+
 💡 JavaScript – Core logic and interactivity
+
 🧑‍💻 VS Code – Code editor
+
 🐙 Git & GitHub – For version control and sharing
+
 🌐 Node.js + Express (optional if backend is used)
 
 ✨ Key Features (From Screenshot):
@@ -53,7 +59,7 @@ Emoji can be typed or pasted in the message box for expressive conversations.
 
 Users can type messages and click “Send” to dispatch it instantly.
 
-📌 Use Cases:
+📌 Use Cases:<br>
 💬 Personal or team chat platform.
 
 🎓 Real-time learning or classroom chat.
@@ -92,10 +98,9 @@ This will run the app on http://localhost:3000.
 
 <img width="1916" height="1076" alt="Image" src="https://github.com/user-attachments/assets/71e7ff62-4d48-4e65-aed7-58d3d1cd8bfb" />
 
-🙋‍♀️ Author
-
-Ragani Kumari
-Intern at CodTech
+🙋‍♀️ Author<br>
+Ragani Kumari<br>
+Intern at CodTech<br>
 GitHub: RaganiKumari9798
 
 
