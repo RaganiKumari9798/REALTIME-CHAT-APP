@@ -108,5 +108,14 @@ This will run the app on http://localhost:3000.
 
 💡OUTPUT
 
+<img width="1916" height="1076" alt="Image" src="https://github.com/user-attachments/assets/71e7ff62-4d48-4e65-aed7-58d3d1cd8bfb" />
+
+🙋‍♀️ Author
+Ragani Kumari
+Intern at CodTech
+GitHub: RaganiKumari9798
+
+
+
 
 
