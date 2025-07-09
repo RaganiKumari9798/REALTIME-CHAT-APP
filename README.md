@@ -1,4 +1,4 @@
-💬✨ Real-Time Chat App
+# 💬✨ Real-Time Chat App
 
 ***
 
@@ -16,50 +16,50 @@ MENTOR :- NEELA SANTOSH KUMAR
 
 ---
 
-💬 Real-Time Chat App – Description
+## 💬 Real-Time Chat App – Description
 
 The Real-Time Chat App is a modern web-based communication platform that enables users to send and receive messages instantly ⚡. Designed with simplicity and speed in mind, it mimics real-world chat experiences using WebSocket technology (Socket.io) to ensure smooth, two-way communication between users.
 
-🔧 Technologies & Tools Used:
+## 🔧 Technologies & Tools Used:
 
-⚛️ React.js – Frontend framework<br>
-🌐 Socket.io – For real-time, bi-directional communication<br>
-🎨 HTML5 + CSS3 – For layout and styling<br>
-💡 JavaScript – Core logic and interactivity<br>
-🧑‍💻 VS Code – Code editor<br>
-🐙 Git & GitHub – For version control and sharing<br>
-🌐 Node.js + Express (optional if backend is used)<br>
+- ⚛️ React.js – Frontend framework<br>
+- 🌐 Socket.io – For real-time, bi-directional communication<br>
+- 🎨 HTML5 + CSS3 – For layout and styling<br>
+- 💡 JavaScript – Core logic and interactivity<br>
+- 🧑‍💻 VS Code – Code editor<br>
+- 🐙 Git & GitHub – For version control and sharing<br>
+- 🌐 Node.js + Express (optional if backend is used)<br>
 
-✨ Key Features (From Screenshot):
+## ✨ Key Features (From Screenshot):
 
-🔁 Real-Time Chatting<br>
+- 🔁 Real-Time Chatting<br>
 Messages are updated instantly using WebSocket (Socket.io) without refreshing the page.
 
-🌓 Light & Dark Mode<br>
+- 🌓 Light & Dark Mode<br>
 Toggle button to switch between Light ☀️ and Dark 🌙 mode.
 Enhances UI experience and accessibility.
 
-💬 Two-Way Messaging UI<br>
+- 💬 Two-Way Messaging UI<br>
 Left side: Other user's messages (ram, sita)
 Right side: Your messages (You)
 
-🎨 Clean & Colorful Chat Bubbles<br>
+- 🎨 Clean & Colorful Chat Bubbles<br>
 Light Mode: Purple chat box with dark text
 Dark Mode: Deep navy blue background with vibrant bubble colors
 
-😄 Emoji Support<br>
+- 😄 Emoji Support<br>
 Emoji can be typed or pasted in the message box for expressive conversations.
 
-📥 Input Field + Send Button<br>
+- 📥 Input Field + Send Button<br>
 Users can type messages and click “Send” to dispatch it instantly.
 
-📌 Use Cases:<br>
-💬 Personal or team chat platform.<br>
-🎓 Real-time learning or classroom chat.<br>
-🧑‍💻 Practice project for learning WebSocket & React.<br>
-🕹️ Live chat in multiplayer games or support apps.<br>
+## 📌 Use Cases:<br>
+- 💬 Personal or team chat platform.<br>
+- 🎓 Real-time learning or classroom chat.<br>
+- 🧑‍💻 Practice project for learning WebSocket & React.<br>
+- 🕹️ Live chat in multiplayer games or support apps.<br>
 
-🧪 How to Run the App Locally:
+## 🧪 How to Run the App Locally:
 
 🖥️ 1. Clone the Repository<br>
 git clone https://github.com/your-username/your-chat-app.git
@@ -75,7 +75,7 @@ npm install
 npm start
 This will run the app on http://localhost:3000.
 
-📁 Folder Structure (Common)<br>
+## 📁 Folder Structure (Common)<br>
 /client
   ├── public/
   ├── src/
@@ -87,7 +87,7 @@ This will run the app on http://localhost:3000.
 
 ---
 
-💡OUTPUT
+## 💡OUTPUT
 
 <img width="1916" height="1076" alt="Image" src="https://github.com/user-attachments/assets/71e7ff62-4d48-4e65-aed7-58d3d1cd8bfb" />
 
