@@ -76,6 +76,8 @@ npm start
 This will run the app on http://localhost:3000.
 
 ## 📁 Folder Structure (Common)<br>
+---
+
 /client
   ├── public/
   ├── src/
